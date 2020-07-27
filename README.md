@@ -9,7 +9,7 @@ AmazingPry replaces your application's console with
 Add this line to your application's Gemfile:
 
 ``` ruby
-gem 'amazing_print'
+gem 'amazing_pry'
 ```
 
 And then execute:
